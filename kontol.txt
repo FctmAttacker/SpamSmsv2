@@ -1,0 +1,13 @@
+Sebelum Menjalankan Calling All, Harap Edit Dulu File no.txt dengan cara
+
+1. nano no.txt
+
+2. Dalam menu edit isi nomer temen2 kamu yang ingin di kirimi calling secara bersamaan. contoh
+085237595072
+089736385950
+085628383940
+
+3.Bila di rasa sudah cukup nomer2nya, save dengan tekan VolumeDown+x 
+lalu y
+
+4. Sekarang calling all sudah bisa di gunakan.
